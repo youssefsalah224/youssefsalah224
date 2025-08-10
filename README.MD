@@ -13,9 +13,9 @@ This is *youssef, a passionate **AI & Software Engineer* Bacholre in computer sc
 ---
 
 ### 📌 Quick Facts
-- 🎓 *Computer Science & AI graduate* —  2023
-- ⚙ *Tech Stack:* Python, NLTK , Azure Realtime , FastAPI, PostgreSQL 
-- 📍 *Based in:* Egypt | 🌍 Open to remote roles 
+- 🎓 *Computer Science & AI graduate from cairo university * —  2023
+- ⚙ * Stack:* Python, NLTK , PostgreSQL ,Azure Realtime , FastAPI,  
+- 📍 *located in:* Egypt | 🌍 Open to remote roles 
 
 
 ---
@@ -24,7 +24,6 @@ This is *youssef, a passionate **AI & Software Engineer* Bacholre in computer sc
 
 - * AI* — LLMS FINETUNNING , Data cleaning and manipluation , chatbot integration 
 - *Software Engineering* — REST APIs, SQL databases , System design
-
 
 ---
 

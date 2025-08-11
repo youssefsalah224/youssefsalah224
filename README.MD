@@ -7,8 +7,8 @@
 
 ### 🚀 AI Engineer | Software Developer | Problem Solver
 
-This is *youssef, a passionate **AI & Software Engineer* Bacholre in computer science specified in AI Enginerring and ML Development.  
- and data-driven solutions in Python. Demonstrated ability to apply theoretical knowledge to real-world projects*.
+This is *youssef, a passionate**AI & Software Engineer* Bacholre in computer science specified in AI Enginerring and ML Development.  
+ and data-driven solutions in Python.  **Demonstrated ability to apply theoretical knowledge to real-world projects*.
 
 ---
 

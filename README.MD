@@ -23,7 +23,7 @@ This is *youssef, a passionate**AI & Software Engineer* Bacholre in computer sci
 ### 💡 What I Do
 
 - * AI* — LLMS FINETUNNING , Data cleaning and manipluation , chatbot integration 
-- *Software Engineering* — REST APIs, SQL databases , System design
+- * Software Engineering* — REST APIs, SQL databases , System design
 
 ---
 

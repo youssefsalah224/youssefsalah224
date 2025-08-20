@@ -1,7 +1,7 @@
 ## 👋 Hi, This is youssef salah
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-salah-762a14234/)
-[![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social)](https://github.com/youssefsalah224/youssefsalah224)
+[![GitHub](https://img.shields.io/github/followers/NA7RAWY?label=Follow&style=social)]
 
 ---
 
